@@ -27,6 +27,10 @@ public class LoginPage extends BasePage{
         loginBtn.click();
     }
 
+    public static void main(String[] args) {
+        System.out.println("From Login Page");
+    }
+
 
 
 }
