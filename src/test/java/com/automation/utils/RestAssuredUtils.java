@@ -5,7 +5,6 @@ import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class RestAssuredUtils {

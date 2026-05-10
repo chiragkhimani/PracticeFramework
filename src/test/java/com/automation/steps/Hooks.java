@@ -1,8 +1,5 @@
 package com.automation.steps;
 
-import com.automation.pages.CartPage;
-import com.automation.pages.HomePage;
-import com.automation.pages.LoginPage;
 import com.automation.utils.DriverUtils;
 import com.automation.utils.PropertyReaderUtils;
 import io.cucumber.java.After;
